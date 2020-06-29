@@ -1,0 +1,207 @@
+{
+  "Technologies": [
+    {
+      "Id": "87412ae4-6930-2825-57a9-12542934584b",
+      "Name": "Outlook",
+      "Subjects": []
+    },
+	{
+      "Id": "939d6333-4480-8774-8dec-081dfd34a03f",
+      "Name": "Teams",
+      "Subjects": []
+    },
+	{
+      "Id": "a904ba7d-72a9-0a01-284e-2f2c152e0493",
+      "Name": "OneNote",
+      "Subjects": []
+    },
+	{
+      "Id": "0e786a19-567e-74b6-131a-1f25882d6577",
+      "Name": "Matrix",
+      "Subjects": []
+    },
+	{
+      "Id": "5114e74e-a795-13ad-59ec-bcf6841a46de",
+      "Name": "PowerPoint",
+      "Subjects": []
+    },
+	{
+      "Id": "c4668faf-a0a2-9053-8f0a-34bfdb9f26e4",
+      "Name": "Planner",
+      "Subjects": []
+    },
+	{
+      "Id": "c14714b5-0854-67a4-400e-0f4868fd971c",
+      "Name": "To-Do",
+      "Subjects": []
+    },
+	{
+      "Id": "cbcc49b0-9485-67de-8aec-648ee2cb0c15",
+      "Name": "Chat",
+      "Subjects": []
+    },
+	{
+      "Id": "5e88fa17-56cf-0ae5-5732-ddb609e92ce8",
+      "Name": "Email",
+      "Subjects": []
+    }
+  ],
+  "Categories": [
+    {
+      "Id": "5ceb003a-2553-62bf-2a72-6f0badd17b5a",
+      "Name": "How do I run a smart meeting",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "Microsoft",
+      "SubCategories": [
+      ]
+    },
+	{
+      "Id": "f409993f-0f52-0fbb-3247-ddaa9fe74b2c",
+      "Name": "Forming ideas, & sharing knowledge",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "Microsoft",
+      "SubCategories": [
+      ]
+    },
+	{
+      "Id": "8471b3c8-7c19-1fe4-234e-b5d865ca9f7d",
+      "Name": "Creating impactful outputs",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "Microsoft",
+      "SubCategories": [
+      ]
+    },
+	{
+      "Id": "21780daa-2c80-08c9-3abf-24971ca32316",
+      "Name": "Digitising business processes",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "Microsoft",
+      "SubCategories": [
+      ]
+    },
+	{
+      "Id": "9d8e107a-a775-7b6c-9b25-01b0a1b54329",
+      "Name": "Storing & finding information",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "Microsoft",
+      "SubCategories": [
+      ]
+    },
+	{
+      "Id": "58654d2e-15b9-213b-1f7e-5e1afd8b1dfc",
+      "Name": "Digital Identity, wellbeing and safety",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "Microsoft",
+      "SubCategories": [
+      ]
+    },
+	{
+      "Id": "a02bd000-8102-7744-18e6-c2d4761e5d40",
+      "Name": "Planning my day",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "Microsoft",
+      "SubCategories": [
+      ]
+    },
+	{
+      "Id": "3027340f-7cd7-4306-09a9-b3e06af28762",
+      "Name": "Collaborating as a Team",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "Microsoft",
+      "SubCategories": [
+      ]
+    }
+  ],
+  "Audiences": [
+    {
+      "Id": "e7f86ad9-779d-3cd3-791d-30c5203b36a7",
+      "Name": "TfL Admin"
+    },
+    {
+      "Id": "c9e0a554-022c-0368-722f-11246b9f0691",
+      "Name": "TfL Change Manager"
+    },
+    {
+      "Id": "f8ff6df1-5766-6574-8c72-b2aaa29b7348",
+      "Name": "TfL Champion"
+    },
+    {
+      "Id": "09919a96-5972-7f86-8c04-17f3d775493e",
+      "Name": "TfL End User"
+    }
+  ],
+  "Sources": [
+    "SOC",
+    "FastTrack",
+    "M365",
+    "Microsoft",
+    "LinkedIn",
+	"WM Reply"
+  ],
+  "Levels": [
+    {
+      "Id": "1df8021d-86fe-1e3f-9222-b470afeb6dbb",
+      "Name": "TfL Beginner"
+    },
+    {
+      "Id": "025bdda0-8214-6321-70cf-fd5357c1289c",
+      "Name": "TfL Intermediate"
+    },
+    {
+      "Id": "8cc2c214-10c4-2e99-1a1d-54d155cf3b8d",
+      "Name": "TfL Advanced"
+    }
+  ],
+  "StatusTag": [
+    {
+      "Id": "ddcf3d66-4486-9705-429a-b62656e89a6c",
+      "Name": "New"
+    },
+    {
+      "Id": "da521cbb-113d-4b89-9d77-6d76f5790074",
+      "Name": "Updated"
+    },
+    {
+      "Id": "2bdebbd2-92ae-74ee-53db-480e12a504fc",
+      "Name": "Retiring"
+    },
+    {
+      "Id": "ef318e77-93d4-5162-a03f-120af8513db4",
+      "Name": "Retired"
+    },
+    {
+      "Id": "4013cb72-1190-50a3-72bf-44de615d7ce1",
+      "Name": "Beta"
+    }
+  ],
+  "Telemetry": {
+    "AppInsightKey": ""
+  },
+  "Version": {
+    "Manifest": "v3",
+    "ManifestMinWebPart": "3.0.0",
+    "CurrentWebPart": "3.0.0",
+    "RepoURL": "https://github.com/pnp/custom-learning-office-365#updating-the-solution"
+  },
+  "ContentPacks": [],
+  "AssetOrigins": [
+    "https://support.office.com",
+    "https://docs.microsoft.com"
+  ]
+}
