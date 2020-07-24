@@ -132,6 +132,14 @@
     {
       "Id": "e7f86ad9-779d-3cd3-791d-30c5203b36a7",
       "Name": "General"
+    },
+	{
+      "Id": "704d41d9-a5e0-2b99-157b-d5e9963d487a",
+      "Name": "All Employees"
+    },
+	{
+      "Id": "3a6887e7-6ee3-90d1-56ba-83983aff010f",
+      "Name": "Authorised Employees Only"
     }
   ],
   "Sources": [
